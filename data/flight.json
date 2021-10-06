@@ -1,0 +1,52 @@
+{
+    "list": [
+        [
+            "c0c32e6e-c689-49e3-8b39-5baabf69e51a",
+            {
+                "city-origin": "medellin",
+                "origin-airport": "Jose maria cordova",
+                "city-destiny": "miami",
+                "destiny-aiport": "JFK",
+                "date": "2021-10-06",
+                "start-hour": "11:11",
+                "is-direct": "true",
+                "duration": "60min",
+                "plane": "airbus 777 ",
+                "seats" : "5",
+                "flight-number": "c0c32e6e-c689-49e3-8b39-5baabf69e51a"
+            }
+        ],
+        [
+            "c0c32e6e-c689-49e3-8b39-5baabf69e51a2",
+            {
+                "city-origin": "medellin",
+                "origin-airport": "Jose maria cordova",
+                "city-destiny": "miami",
+                "destiny-aiport": "JFK",
+                "date": "2021-10-06",
+                "start-hour": "11:11",
+                "is-direct": "true",
+                "duration": "60min",
+                "plane": "airbus 777 ",
+                "seats" : "0",
+                "flight-number": "c0c32e6e-c689-49e3-8b39-5baabf69e51a"
+            }
+        ],
+        [
+            "c0c32e6e-c689-49e3-8b39-5baabf69e51a4",
+            {
+                "city-origin": "medellin",
+                "origin-airport": "Jose maria cordova",
+                "city-destiny": "miami",
+                "destiny-aiport": "JFK",
+                "date": "2021-06-03",
+                "start-hour": "11:11",
+                "is-direct": "true",
+                "duration": "60min",
+                "plane": "airbus 777 ",
+                "seats" : "3",
+                "flight-number": "c0c32e6e-c689-49e3-8b39-5baabf69e51a"
+            }
+        ]
+    ]
+}
