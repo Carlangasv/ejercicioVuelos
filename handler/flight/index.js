@@ -17,10 +17,10 @@ const getOneFlight = (req, res) => {
     let id = req.params.id;
     let data = _db.getData("flight");
     let value = data.get(id);
-
+    let today = new Date().setHours(0,0,0);
     if (value) {
       let date = value.date;
-      if (Date.parse(date) < Date.now()) {
+      if (Date.parse(date) > today) {
         if (value.seats > 0) {
           res.status(200).send({
             success: true,
